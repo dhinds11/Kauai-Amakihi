@@ -1,4 +1,5 @@
 # **Kauai-Amakihi** ***Chlorodrepanis stejnegeri***
+![kauai amakihi ebird.jpg](https://cdn.download.ams.birds.cornell.edu/api/v2/asset/96728221/900)
 ## About the Bird:
 ### An uncommon Hawaiian honeycreeper of forests on Kauai. Males are bright yellow and females are grayer. Larger and thicker-billed than amakihis on other islands. Occurs in native forest above 3,000 feet elevation in the understory and forest canopy where it searches for nectar, insects, and fruit.This species has a greenish-yellow with black lores and a large, sickle-shaped, down curved beak. Males usually have bigger beaks and more color compared to the females which have smaller beaks and a more dull color. More dull feathers and a bigger beaks distinguishes the Kaua‘i ‘amakihi from the other ʻamakihi species.The Kauaʻi ʻamakihi has been categorized as vulnerable by Bird Life International. While their population numbers have been steady, like other honeycreepers, the Kauaʻi ʻamakihi is threatened by habitat loss, invasive species, and avian malaria, but has not been affected as strongly as other species in the subfamily. 
 ## Goals of Annotation:
