@@ -1,2 +1,9 @@
-# Kauai-Amakihi
+# **Kauai-Amakihi** ***Chlorodrepanis stejnegeri***
 ## About the Bird:
+### An uncommon Hawaiian honeycreeper of forests on Kauai. Males are bright yellow and females are grayer. Larger and thicker-billed than amakihis on other islands. Occurs in native forest above 3,000 feet elevation in the understory and forest canopy where it searches for nectar, insects, and fruit.This species has a greenish-yellow with black lores and a large, sickle-shaped, down curved beak. Males usually have bigger beaks and more color compared to the females which have smaller beaks and a more dull color. More dull feathers and a bigger beaks distinguishes the Kaua‘i ‘amakihi from the other ʻamakihi species.The Kauaʻi ʻamakihi has been categorized as vulnerable by Bird Life International. While their population numbers have been steady, like other honeycreepers, the Kauaʻi ʻamakihi is threatened by habitat loss, invasive species, and avian malaria, but has not been affected as strongly as other species in the subfamily. 
+## Goals of Annotation:
+### This Annotation is working to help conserve birds endemic to Kauai, and is in colaboration with the Kauai Forest Bird Recovery Project. Additional goals will be developed as the annotation continues in the upcoming weeks. Ultimately some ecological insight/species distribution knowledge will be gained from this dataset.
+#### I ola nā manu nahele - So the forest birds thrive. &mdash; KFBRP mission statement
+## Description of Dataset:
+### For Sources of Calls we will be utilizing the Macaualay and Xeno Canto recordings.  
+### For the gathered recordings, we have two separate datasets of recordings from two ARU deployments along with additional handheld recordings. One ARU deployment is classified by a gridded survey design with two ARU's deployed within each grid square with one in the center and one in the optimal Akekihi habitat. Akekihi is another bird of conservation concern, both Akekihi and Amakihi very similar lifestyles and occupy similar niches. The second ARU deployment positions ARU's in transects along streams (PUAI_OS), this study targets Puaiohi, a stream-dwelling thrush.
