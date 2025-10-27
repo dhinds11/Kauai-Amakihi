@@ -4,6 +4,9 @@ import pandas as pd
 import os
 
 def tsv_to_csv_pandas(tsv_file, csv_file):
+    if os.path.getsize(tsv_file) == 0:
+        print(f"Skipped empty file: {tsv_file}")
+        return
     df = pd.read_csv(tsv_file, sep='\t')
     df.to_csv(csv_file, index=False) # index=False prevents writing the DataFrame index as a column
 

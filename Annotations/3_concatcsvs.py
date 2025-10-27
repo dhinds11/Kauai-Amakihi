@@ -21,7 +21,7 @@ for filename in all_files:
 # ignore_index=True renumbers the rows of the combined DataFrame
 combined_df = pd.concat(df_list, ignore_index=True)
 
-savepath = '/Kauai-Amakihi/Annotations/macaulay/combined_output.csv'
+savepath = '/home/dhind/Kauai-Amakihi/Annotations/macaulay/combined_output.csv'
 # Optionally, save the combined DataFrame to a new CSV file
 combined_df.to_csv(savepath, index=False)
 

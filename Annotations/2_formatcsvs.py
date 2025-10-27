@@ -7,15 +7,13 @@ def formatting_csv(csv_file):
     df.rename(columns={0: 'start_time', 1: 'end_time', 2: 'annotation'}, inplace=True)
 
     audio_extensions = ['wav', 'm4a', 'mp3']
-    audio_folder = '/home/dhind/Kauai-Amakihi/Kauai Amakihi - Macaulay Recordings'
+    audio_folder = '/home/dhind/Kitzes Lab/Kauai Amakihi - chlorodrepanis stejnegeri/Macaulay Recordings'
     base_name = os.path.splitext(os.path.basename(csv_file))[0]
 
     matched_file = None
     for ext in audio_extensions:
         pattern = os.path.join(audio_folder, '**', f'*{base_name}*.{ext}')
         matches = glob.glob(pattern, recursive=True)
-        print(f"Searching for: {pattern}")
-        print(f"Found matches: {matches}")
 
         for m in matches:
             audio_base = os.path.splitext(os.path.basename(m))[0].lower()
@@ -39,7 +37,6 @@ def formatting_csv(csv_file):
         f"{base_name}reform.csv"
     )
     df.to_csv(output_path, index=False)
-    print(f"Matched file: {matched_file if matched_file else 'None found'}")
 
 # Filter only CSV files
 path = "Kauai-Amakihi/Annotations/macaulay/csv files/"
