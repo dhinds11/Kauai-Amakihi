@@ -1,0 +1,26 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore log files
+*.log
+npm-debug.log*
+
+# Ignore generated files/build artifacts
+/dist
+/build
+
+# Ignore OS-specific files (e.g., macOS .DS_Store files)
+.DS_Store
+.vscode/
+
+
+Audio
+wandb
+export.sh
+wandb.ipynb
+*file conversion for json to .ipynb
+Extract_targetneg_XC_snapshot.ipynb
+Annotations/ania_sasha/r3_train_files/.ipynb_checkpoints/
+
+Experiment?/*
+!Experiment?/checkpoints/
