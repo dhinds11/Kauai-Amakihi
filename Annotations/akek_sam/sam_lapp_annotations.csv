@@ -1,4 +1,4 @@
-file,start_time,end_time,AKEK_song,folder,point,notes,annotation
+audio_file,start_time,end_time,AKEK_song,folder,point,notes,annotation
 /media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/A1-0_11883/Data/SMM11883_20240322_110000.wav,93,96,9.070529,A1-0_11883,A1-0,lowers in pitch after two notes,KAAM_song
 /media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/A1-0_11883/Data/SMM11883_20240322_110000.wav,147,150,8.924845,A1-0_11883,A1-0,,KAAM_song
 /media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/A1-0_11883/Data/SMM11883_20240324_085800.wav,78,81,9.45736,A1-0_11883,A1-0,,KAAM_song
