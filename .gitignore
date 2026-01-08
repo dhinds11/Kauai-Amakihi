@@ -24,3 +24,9 @@ Annotations/ania_sasha/r3_train_files/.ipynb_checkpoints/
 
 Experiment?/*
 !Experiment?/checkpoints/
+Experiment??/train_set.csv
+Experiment??/valid_set.csv
+!Experiment??/checkpoints/
+
+shallow_classifier.ipynb
+visualize_models.ipynb
