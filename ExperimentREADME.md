@@ -26,4 +26,4 @@
 
 *In the future we should only resample the training set*
 - Also, first analysis of histograms in this experiment.
-![Histogram of Positives/Negatives](/Kauai-Amakihi/*Images/experiment4aHIST.png)
+![Histogram of Positives/Negatives](*Images/experiment4aHIST.png)
