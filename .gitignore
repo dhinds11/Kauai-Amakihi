@@ -32,5 +32,5 @@ visualize_models.ipynb
 
 plot_utils.*
 
-!Transfer_Learning/Experiment???/checkpoints/
-Transfer_Learning/Experiment???/*
+
+Transfer_Learning/Experiment???/*.csv
