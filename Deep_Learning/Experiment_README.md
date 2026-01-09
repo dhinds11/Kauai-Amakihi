@@ -1,4 +1,4 @@
-# **Experiment Details**
+# **Experiment Details for Deep Learning CNN**
 ## Experiment 1
 - First attempt at using ResNet18 to model KAAM_song.  
 - Trained/validated on a split of a set of half of the focal recordings, or simply the file combined_output_macaulay_v1.csv.  
