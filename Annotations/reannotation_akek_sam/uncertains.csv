@@ -1,0 +1,91 @@
+,audio_file,start_time,end_time,AKEK_song,folder,point,notes,annotation
+51,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/B3-4_11462/Data/SMM11462_20240430_082700.wav,9,12,9.195356,B3-4_11462,B3-4,,AKEK_KAAM
+52,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/B3-4_11462/Data/SMM11462_20240430_082700.wav,48,51,8.95836,B3-4_11462,B3-4,,AKEK_KAAM
+61,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/C2-0_11798/Data/SMM11798_20240523_111600.wav,21,24,4.4291773,C2-0_11798,C2-0,,KAAM_ANIA
+63,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/C2-0_11798/Data/SMM11798_20240611_151400.wav,216,219,4.159092,C2-0_11798,C2-0,,KAAM_ANIA
+84,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/C5-0_11906/Data/SMM11906_20240512_102000.wav,204,207,10.365354,C5-0_11906,C5-0,honeycreeper song,u
+85,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/C5-2-extra_11445/Data/SMM11445_20240325_085700.wav,3,6,9.05741,C5-2-extra_11445,C5-2-extra,honeycreeper song,u
+87,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/C5-2-extra_11445/Data/SMM11445_20240429_102700.wav,159,162,10.337655,C5-2-extra_11445,C5-2-extra,"interesting unusual song, ask for help",u
+89,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/C5-2-extra_11445/Data/SMM11445_20240507_112200.wav,69,72,9.32849,C5-2-extra_11445,C5-2-extra,"honeycreeper song, ask for help",u
+96,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D3-4-additional_11429/Data/SMM11429_20240501_072600.wav,171,174,6.435615,D3-4-additional_11429,D3-4-additional,honeycreeper song,u
+98,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D3-4-additional_11429/Data/SMM11429_20240501_172600.wav,138,141,4.2607646,D3-4-additional_11429,D3-4-additional,,u
+100,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D4-0_11915/Data/SMM11915_20240313_150800.wav,222,225,12.468855,D4-0_11915,D4-0,,KAAM_ANIA
+101,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D4-0_11915/Data/SMM11915_20240430_062700.wav,183,186,11.067816,D4-0_11915,D4-0,,KAAM_ANIA
+102,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D4-0_11915/Data/SMM11915_20240430_072700.wav,225,228,11.393403,D4-0_11915,D4-0,,KAAM_ANIA
+103,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D4-0_11915/Data/SMM11915_20240523_141600.wav,129,132,10.980411,D4-0_11915,D4-0,,KAAM_ANIA
+104,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D4-0_11915/Data/SMM11915_20240526_161500.wav,117,120,11.584744,D4-0_11915,D4-0,,KAAM_ANIA
+105,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D4-4_11791/Data/SMM11791_20240410_124200.wav,201,204,10.665732,D4-4_11791,D4-4,,KAAM_ANIA
+109,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D4-4_11791/Data/SMM11791_20240520_181700.wav,153,156,12.63798,D4-4_11791,D4-4,,KAAM_ANIA
+110,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D5-0_11442/Data/SMM11442_20240325_095700.wav,198,201,4.5940714,D5-0_11442,D5-0,,u
+126,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/D6-2-additional_11923/Data/SMM11923_20240421_073300.wav,219,222,12.392814,D6-2-additional_11923,D6-2-additional,,u
+133,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/E5-0_11439/Data/SMM11439_20240524_111600.wav,219,222,7.565779,E5-0_11439,E5-0,distant honeycreeper song,u
+134,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/E5-0_11439/Data/SMM11439_20240526_131500.wav,198,201,5.8969545,E5-0_11439,E5-0,honeycreeper song,u
+191,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/F8-0_11855/Data/SMM11855_20240429_102800.wav,180,183,3.7286642,F8-0_11855,F8-0,,u
+194,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/F8-0_11855/Data/SMM11855_20240429_102800.wav,195,198,4.237487,F8-0_11855,F8-0,,u
+214,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/G6-0_11452/Data/SMM11452_20240526_101500.wav,231,234,10.623945,G6-0_11452,G6-0,"Song hard to ID, occurs at end of recording, but earlier there's a very good sounding call",AKEK_KAAM
+237,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H6-0_11434/Data/SMM11434_20240416_103700.wav,177,180,7.5945473,H6-0_11434,H6-0,honeycreeper song,u
+238,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H6-0_11434/Data/SMM11434_20240417_083600.wav,189,192,7.9683185,H6-0_11434,H6-0,,u
+240,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H6-0_11434/Data/SMM11434_20240608_121400.wav,75,78,6.957856,H6-0_11434,H6-0,honeycreeper song,u
+241,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H6-4_11454/Data/SMM11454_20240604_131400.wav,3,6,6.656486,H6-4_11454,H6-4,distant,u
+244,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H6-4_11454/Data/SMM11454_20240605_121400.wav,45,48,9.890645,H6-4_11454,H6-4,,KAAM_ANIA
+246,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H7-0_11456/Data/SMM11456_20240329_115300.wav,99,102,3.9779725,H7-0_11456,H7-0,distant honeycreeper song,u
+247,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H7-0_11456/Data/SMM11456_20240331_125100.wav,69,72,3.118306,H7-0_11456,H7-0,,u
+248,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H7-0_11456/Data/SMM11456_20240427_152900.wav,51,54,2.1696944,H7-0_11456,H7-0,not honeycreeper?,u
+260,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H8-0_11446/Data/SMM11446_20240529_131400.wav,225,228,9.91114,H8-0_11446,H8-0,honeycreeper song,u
+264,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H8-4-additional_11467/Data/SMM11467_20240607_111400.wav,201,204,11.442714,H8-4-additional_11467,H8-4-additional,,AKEK_KAAM
+265,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H8-4-additional_11467/Data/SMM11467_20240607_111400.wav,225,228,10.721903,H8-4-additional_11467,H8-4-additional,,AKEK_KAAM
+268,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H9-3-additional_11524/Data/SMM11524_20240605_071400.wav,102,105,5.177098,H9-3-additional_11524,H9-3-additional,"distant, simple rising song",u
+269,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/H9-3-additional_11524/Data/SMM11524_20240605_141400.wav,120,123,3.4106786,H9-3-additional_11524,H9-3-additional,,u
+271,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/I6-0_11466/Data/SMM11466_20240410_174200.wav,63,66,3.699709,I6-0_11466,I6-0,,u
+273,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/I6-0_11466/Data/SMM11466_20240602_141400.wav,120,123,2.954493,I6-0_11466,I6-0,,u
+281,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/I7-0_11458/Data/SMM11458_20240408_154400.wav,42,45,11.15797,I7-0_11458,I7-0,unusual honeycreeper song type,u
+282,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/I7-0_11458/Data/SMM11458_20240408_154400.wav,57,60,11.8893585,I7-0_11458,I7-0,unusual honeycreeper song type,u
+290,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/I7-3_11447/Data/SMM11447_20240605_131400.wav,237,240,4.573341,I7-3_11447,I7-3,,u
+307,/media/kiwi/datasets/finalized/kaua2024a/AKEK_grid/I9-2_11428/Data/SMM11428_20240430_132700.wav,48,51,10.678084,I9-2_11428,I9-2,honeycreeper song ,u
+316,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HH-05_11864/Data/SMM11864_20240520_091700.wav,12,15,8.216789,OS-HH-05_11864,OS-HH-05,simple upsloped song,u
+317,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HH-05_11864/Data/SMM11864_20240520_091700.wav,48,51,8.957054,OS-HH-05_11864,OS-HH-05,simple upsloped song,u
+318,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HH-05_11864/Data/SMM11864_20240520_091700.wav,120,123,8.002102,OS-HH-05_11864,OS-HH-05,simple upsloped song,u
+319,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HH-05_11864/Data/SMM11864_20240520_091700.wav,237,240,10.664275,OS-HH-05_11864,OS-HH-05,simple upsloped song,u
+320,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HH-05_11864/Data/SMM11864_20240617_161500.wav,192,195,8.231406,OS-HH-05_11864,OS-HH-05,simple upsloped song,u
+321,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HH-07_14352/Data/SMM14352_20240521_171700.wav,228,231,9.609012,OS-HH-07_14352,OS-HH-07,,u
+364,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-02_14354/Data/SMM14354_20240607_181400.wav,192,195,9.77333,OS-HPK-02_14354,OS-HPK-02,,u
+365,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-02_14354/Data/SMM14354_20240608_081400.wav,63,66,9.883256,OS-HPK-02_14354,OS-HPK-02,honeycreeper song,u
+369,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-04_14371/Data/SMM14371_20240615_171500.wav,198,201,9.396821,OS-HPK-04_14371,OS-HPK-04,honeycreeper song,u
+370,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-04_14371/Data/SMM14371_20240615_171500.wav,234,237,10.350253,OS-HPK-04_14371,OS-HPK-04,honeycreeper song,u
+376,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-08_14342/Data/SMM14342_20240520_141700.wav,21,24,6.8015857,OS-HPK-08_14342,OS-HPK-08,,u
+377,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-08_14342/Data/SMM14342_20240520_141700.wav,30,33,6.042399,OS-HPK-08_14342,OS-HPK-08,,u
+378,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-08_14342/Data/SMM14342_20240604_121400.wav,18,21,6.734365,OS-HPK-08_14342,OS-HPK-08,,u
+379,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-08_14342/Data/SMM14342_20240604_121400.wav,42,45,6.2766633,OS-HPK-08_14342,OS-HPK-08,,u
+380,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-08_14342/Data/SMM14342_20240604_121400.wav,57,60,6.481899,OS-HPK-08_14342,OS-HPK-08,,u
+383,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-14_14282/Data/SMM14282_20240422_133200.wav,222,225,10.1287565,OS-HPK-14_14282,OS-HPK-14,,u
+408,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-22_14269/Data/SMM14269_20240426_172900.wav,141,144,10.338252,OS-HPK-22_14269,OS-HPK-22,,AKEK_KAAM
+409,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-HPK-22_14269/Data/SMM14269_20240502_122500.wav,138,141,10.9192915,OS-HPK-22_14269,OS-HPK-22,,AKEK_KAAM
+411,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-02_14373/Data/SMM14373_20240501_132600.wav,150,153,10.5043335,OS-MOH-02_14373,OS-MOH-02,,u
+412,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-02_14373/Data/SMM14373_20240503_152500.wav,165,168,10.742725,OS-MOH-02_14373,OS-MOH-02,,u
+413,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-02_14373/Data/SMM14373_20240503_152500.wav,186,189,10.773223,OS-MOH-02_14373,OS-MOH-02,,u
+414,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-02_14373/Data/SMM14373_20240508_112200.wav,54,57,10.317896,OS-MOH-02_14373,OS-MOH-02,,u
+415,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-02_14373/Data/SMM14373_20240523_151600.wav,87,90,10.110538,OS-MOH-02_14373,OS-MOH-02,,u
+416,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-04_14237/Data/SMM14237_20240607_071400.wav,69,72,10.764457,OS-MOH-04_14237,OS-MOH-04,,u
+417,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-04_14237/Data/SMM14237_20240607_071400.wav,102,105,10.704093,OS-MOH-04_14237,OS-MOH-04,,u
+418,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-04_14237/Data/SMM14237_20240607_071400.wav,174,177,12.769273,OS-MOH-04_14237,OS-MOH-04,,u
+419,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-04_14237/Data/SMM14237_20240607_071400.wav,234,237,10.528709,OS-MOH-04_14237,OS-MOH-04,,u
+420,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-04_14237/Data/SMM14237_20240607_131400.wav,123,126,10.429569,OS-MOH-04_14237,OS-MOH-04,,u
+431,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-10_14260/Data/SMM14260_20240508_152200.wav,135,138,14.239947,OS-MOH-10_14260,OS-MOH-10,,AKEK_KAAM
+436,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-12_14263/Data/SMM14263_20240520_141700.wav,21,24,10.8040495,OS-MOH-12_14263,OS-MOH-12,,u
+437,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-12_14263/Data/SMM14263_20240522_131600.wav,177,180,12.719903,OS-MOH-12_14263,OS-MOH-12,,u
+438,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-12_14263/Data/SMM14263_20240523_141600.wav,204,207,10.94654,OS-MOH-12_14263,OS-MOH-12,,u
+439,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-12_14263/Data/SMM14263_20240527_061500.wav,189,192,11.465543,OS-MOH-12_14263,OS-MOH-12,,u
+440,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-MOH-12_14263/Data/SMM14263_20240604_071400.wav,108,111,11.428088,OS-MOH-12_14263,OS-MOH-12,,u
+486,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-14_11858/Data/SMM11858_20240524_151600.wav,195,198,7.1251435,OS-UUK-14_11858,OS-UUK-14,honeycreeper song,u
+487,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-14_11858/Data/SMM11858_20240525_101500.wav,66,69,6.8290668,OS-UUK-14_11858,OS-UUK-14,honeycreeper song,u
+488,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-14_11858/Data/SMM11858_20240525_131500.wav,207,210,7.562468,OS-UUK-14_11858,OS-UUK-14,,u
+496,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-18_11893/Data/SMM11893_20240528_071500.wav,141,144,9.342336,OS-UUK-18_11893,OS-UUK-18,honeycreeper song,u
+497,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-18_11893/Data/SMM11893_20240529_111500.wav,138,141,8.943414,OS-UUK-18_11893,OS-UUK-18,honeycreeper song,u
+498,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-18_11893/Data/SMM11893_20240603_111400.wav,45,48,8.7177925,OS-UUK-18_11893,OS-UUK-18,honeycreeper song,u
+499,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-18_11893/Data/SMM11893_20240603_111400.wav,54,57,8.959058,OS-UUK-18_11893,OS-UUK-18,honeycreeper song,u
+500,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-18_11893/Data/SMM11893_20240604_071400.wav,99,102,10.038294,OS-UUK-18_11893,OS-UUK-18,honeycreeper song,u
+501,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-20_11919/Data/SMM11919_20240527_061500.wav,150,153,5.5304217,OS-UUK-20_11919,OS-UUK-20,,u
+502,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-20_11919/Data/SMM11919_20240527_061500.wav,165,168,3.9106808,OS-UUK-20_11919,OS-UUK-20,,u
+503,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-20_11919/Data/SMM11919_20240527_061500.wav,171,174,4.832873,OS-UUK-20_11919,OS-UUK-20,,u
+504,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-20_11919/Data/SMM11919_20240604_121400.wav,9,12,4.6135306,OS-UUK-20_11919,OS-UUK-20,,u
+505,/media/kiwi/datasets/finalized/kaua2024a/PUAI_OS/OS-UUK-20_11919/Data/SMM11919_20240604_121400.wav,12,15,7.8353066,OS-UUK-20_11919,OS-UUK-20,,u

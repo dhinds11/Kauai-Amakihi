@@ -19,3 +19,7 @@
 - Addition of more annotations in training set (macaulay .m4a's, which were not included before, annotated and added to set)
 - Training set comprised of AKEK and ANIA XC mp3s clips, 3000 random XC clips, KAAM focal clips (with new .m4a's)
 - Still poor performance on validation set. Potential incorrect annotations (negatives that should be positives) in validation set, which need to be reviewed and potentially reannotated.
+## Experiment 6s
+- removal of u's from validation set
+- at this point, the validation set is known as AKEK_tdl in annotations and everything else.
+- similar performance on validation set of AKEK_tdl with the removal of u's
