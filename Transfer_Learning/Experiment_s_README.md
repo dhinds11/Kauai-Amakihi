@@ -23,3 +23,20 @@
 - removal of u's from validation set
 - at this point, the validation set is known as AKEK_tdl in annotations and everything else.
 - similar performance on validation set of AKEK_tdl with the removal of u's
+
+## Experiment 7s
+- Training set
+    - Focal Recordings of KAAM
+    - Macaulay
+    - Xeno Canto
+    - Focal Recordings of AKEK and ANIA from Xeno Canto
+    - First 5 seconds of 3000 randomly selected Xeno Canto recordings
+    - AKEK_tdl set annotated for KAAM
+- Validation set
+    - ANIA_tdl set annotated for KAAM
+- Much better performance, time for active learning loop.  
+
+![Histogram of Positives/Negatives](*Images/experiment7_sHIST.png)  
+Epoch 1000/1000, Loss: 0.06103163957595825,  Val Loss: 0.04963220655918121  
+val AU ROC: 0.973  
+val MAP: 0.241  
